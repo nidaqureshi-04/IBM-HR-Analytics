@@ -1,4 +1,4 @@
-do# IIBM HR Analytics Project
+IIBM HR Analytics Project
 
 📊 Project Overview
 This project explores IBM's fictional HR dataset to identify patterns and key drivers behind employee attrition. The objective is to assist HR professionals in understanding what factors lead to employee turnover and how they might be addressed.
